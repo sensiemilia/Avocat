@@ -1,0 +1,79 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+nav {
+  height: 100vh;
+  background-image: url(../img/palaisjustice.png);
+  background-size: cover;
+}
+
+li{
+  color: white;
+  font-size: 20px;
+  display: inline;
+  justify-content: space-between;
+}
+
+#section2 {
+  background-color: rgb(45, 45, 45);
+}
+
+img {
+  width: 40%;
+  margin-top: -20%;
+  margin-left: 60%;
+  margin-bottom: 30px;
+  padding-right: 30px;
+}
+
+h1 {
+  height: 10vh;
+  width: 100%;
+  padding: 5vh 0 0 5vh;
+  font-size: 30px;
+  color: white;
+}
+
+p {
+  padding: 20px;
+  padding-left: 5vh;
+  padding-right: 60vh;
+  margin-right: 20%;
+  font-size: 20px;
+  color: white;
+}
+
+#section3 {
+color: white;
+height: 100vh;
+background-color:  rgb(45, 45, 45);
+display: flex ;
+justify-content: left;
+
+}
+
+.logo{
+  width: 30px;
+  height: 30px;
+}
+
+img{
+  padding-bottom: 10px
+}
+
+
+ul{
+  position: relative;
+  padding: 2%;
+  text-align: center;
+  
+  
+}
+
+
+#liste{
+  padding-right: 5px;
+}
